@@ -14,9 +14,9 @@ export default function Home() {
       </Head>
       <div className="flex items-center justify-center h-screen bg-gradient-to-br from-indigo-500 to-indigo-800">
         <div className="bg-white font-semibold text-center rounded-3xl md:w-3/3 lg:w-7/12 border shadow-lg p-20">
-          <img className="mb-3 w-36 h-36 rounded-full mx-auto shadow-lg" src="https://avatars.githubusercontent.com/u/35954709?v=4" alt="Cemre ACAR - Front-End Developer" />
-          <h1 className="text-7xl font-extrabold mt-4 mb-4">Cemre ACAR</h1>
-          <h3 className="text-xl text-gray-500 font-medium mt-2 mb-2">Front-End Developer</h3>
+          <img className="mb-3 w-36 h-36 rounded-full mx-auto shadow-lg" src="source img" alt="line 2" />
+          <h1 className="text-7xl font-extrabold mt-4 mb-4">Rpletzer Weblab</h1>
+          <h3 className="text-xl text-gray-500 font-medium mt-2 mb-2">Thinker</h3>
 
           <Link href='/about'>
             <button className="bg-fuchsia-600 px-8 py-3 mt-4 ml-2 mr-2 rounded-3xl text-gray-100 font-semibold w-36 tracking-wide">About</button>
