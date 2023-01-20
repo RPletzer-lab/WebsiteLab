@@ -18,11 +18,11 @@ export default function Home() {
           <h1 className="text-7xl font-extrabold mt-4 mb-4">Rpletzer Websitelab</h1>
           <h3 className="text-xl text-gray-500 font-medium mt-2 mb-2">Thinker</h3>
 
-          <Link href='/about'>
+          <Link href='/pictures'>
             <button className="bg-fuchsia-600 px-8 py-3 mt-4 ml-2 mr-2 rounded-3xl text-gray-100 font-semibold w-36 tracking-wide">Pictures</button>
           </Link>
 
-          <Link href='/portfolio'>
+          <Link href='/about'>
             <button className="bg-indigo-600 px-8 py-3 mt-4 ml-2 mr-2 rounded-3xl text-gray-100 font-semibold w-36 tracking-wide">About</button>
           </Link>
 
